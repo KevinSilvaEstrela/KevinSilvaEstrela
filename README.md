@@ -1,6 +1,8 @@
 <h1 align="center">Olá 👋, eu sou o Kevin Estrela</h1>
 <h3 align="center">Técnologo em ADS.</h3>
 
+<img loading="lazy" src="https://64.media.tumblr.com/d7e9029f836fc01d5192e276da75f0f9/tumblr_ovgs44KLtU1v1hotuo3_540.gif" width="400" height="280"/>
+
 <h3 align="left">Social:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kevin-silva-estrela-434569264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kevin-silva-estrela-434569264/" height="30" width="40" /></a>
