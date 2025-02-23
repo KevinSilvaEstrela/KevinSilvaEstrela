@@ -2,7 +2,7 @@
 <h3 align="center">Técnologo em ADS.</h3>
 
 <p align="center">
-  <img loading="lazy" src="https://64.media.tumblr.com/d7e9029f836fc01d5192e276da75f0f9/tumblr_ovgs44KLtU1v1hotuo3_540.gif" width="400" height="280"/>
+  <img loading="lazy" src="https://64.media.tumblr.com/d7e9029f836fc01d5192e276da75f0f9/tumblr_ovgs44KLtU1v1hotuo3_540.gif" width="560" height="280"/>
 </p>
 
 <h3 align="left">Social:</h3>
