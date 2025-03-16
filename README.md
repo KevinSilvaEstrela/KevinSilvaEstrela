@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Kevin Estrela</h1>
-<h3 align="center">Técnologo em ADS.</h3>
+<h3 align="center">Tecnólogo em ADS.</h3>
 
 <p align="center">
   <img loading="lazy" src="https://64.media.tumblr.com/d7e9029f836fc01d5192e276da75f0f9/tumblr_ovgs44KLtU1v1hotuo3_540.gif" width="560" height="280"/>
@@ -29,6 +29,12 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 
+</p>
+
+<h3 align="left">Certificações:</h3>
+
+<p align="left">
+  <a href="https://learn.microsoft.com/api/credentials/share/pt-br/KevinSilvaEstrela-9835/CF12BEB99E4E362?sharingId=67C8DDA3718CBB22"> <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"alt="azure_fundamentals" width="120" height="120"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinsilvaestrela&show_icons=true&locale=en&layout=compact" alt="kevinsilvaestrela" /></p>
