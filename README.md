@@ -34,7 +34,7 @@
 <h3 align="left">Certificações:</h3>
 
 <p align="left">
-  <a href="https://learn.microsoft.com/api/credentials/share/pt-br/KevinSilvaEstrela-9835/CF12BEB99E4E362?sharingId=67C8DDA3718CBB22"> <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"alt="azure_fundamentals" width="120" height="120"/> </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/pt-br/KevinSilvaEstrela-9835/CF12BEB99E4E362?sharingId=67C8DDA3718CBB22"> <img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"alt="azure_fundamentals" width="120" height="120"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinsilvaestrela&show_icons=true&locale=en&layout=compact" alt="kevinsilvaestrela" /></p>
